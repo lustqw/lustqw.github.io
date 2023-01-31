@@ -1,2 +1,2 @@
-# pantreas.github.io
+# nyrsdev.github.io
 Personel Website
