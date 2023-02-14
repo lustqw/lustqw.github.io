@@ -1,2 +1,1 @@
-# nyrsdev.github.io
-Personel Website
+# Kişisel Webiste
